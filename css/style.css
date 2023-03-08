@@ -1221,7 +1221,7 @@ h6 {
   }
 
   .page__section::before {
-    right: 50%;
+    right: 50% !important;
   }
 }
 
@@ -1242,7 +1242,7 @@ h6 {
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
-    left: 50%;
+    left: 50% !important;
   }
 
   .fp-bullets .fp-bullet {
