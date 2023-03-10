@@ -404,6 +404,7 @@
         let line = element.querySelector(".static__line span");
         line.style.width = prc.innerText;
     })), 5e3);
+    document.querySelectorAll(".page__section.invert");
     window["FLS"] = true;
     isWebp();
 })();
